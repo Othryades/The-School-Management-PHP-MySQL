@@ -1,0 +1,264 @@
+#listContainer{
+    padding-left: 2px;
+    height:375px;
+    width: 350px;
+    float: left;
+    vertical-align:top;
+
+}
+
+#adminList{
+    padding-left: 2px;
+    height:375px;
+    width: 350px;
+    float: left;
+    vertical-align:top;
+}
+
+.col{
+    display:inline-block;
+    width:135px;
+    vertical-align:top;
+    height: 500px;
+    overflow: auto;
+}
+.col::-webkit-scrollbar{
+    display: none;
+}
+
+.colAdmin{
+    display:inline-block;width:180px;vertical-align:top;
+}
+
+.fontList{
+    font-weight: bold;
+}
+
+.fontCenter{
+    text-align: center;
+}
+
+.main-container{
+    border-radius: 25px;
+    border:solid;
+    height:480px;
+    width: 775px;
+    float: right;
+}
+
+.adminContainer{
+
+}
+
+#cousreTitle{
+    font-size: x-large;
+}
+
+
+.nameTitle{
+    font-size: larger;
+    color: #4d89bd;
+}
+
+.editButton{
+    position: relative;
+    bottom: 40px;
+}
+
+.create_form{
+    border:solid;
+    border-radius: 25px;
+    padding: 5px;
+    height:480px;
+    width: 775px;
+    position: relative;
+    left:350px;
+}
+
+.imageInput{
+    display:inline;
+}
+
+div.scroll {
+    height: 55px;
+    overflow: auto;
+    position: relative;left: 105px; bottom: 55px;
+}
+
+
+.headCreateForm{
+    position: relative;
+    right: 50px;
+}
+
+#textareaCourseForm{
+    position: relative;
+    left: 85px;
+    bottom:15px;
+}
+
+.button{
+    background-color: #5890af;
+    border: none;
+    color: white;
+    padding: 4px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+
+    cursor: pointer;
+}
+
+.btnDeleteCreateform{
+    float:right;
+    margin:2px
+}
+
+.btnSaveCreateform{
+    border-radius: 25%;
+    border: 2px solid #57a5ff;
+    margin:2px
+}
+
+.btnPosition{
+    position: relative;
+    right: 150px;
+}
+
+.formInput{
+    width: 50%; margin: 0 auto;position: relative; right: 150px;
+}
+
+.imageStudentForm{
+    position: relative; left: 195px; bottom: 95px;
+}
+
+.imageCourseForm{
+    position: relative; left: 195px; bottom: 45px;
+}
+
+.courseOptionForm{
+    position: relative;left: 105px; bottom: 37px;
+}
+
+#nameCourseForm{
+    position: relative; left: 40px;
+}
+
+.listOfStudents{
+    height: 55px;
+    overflow: scroll;
+}
+
+.image_position{
+    position: relative;
+    left: 245px;
+    bottom: 55px;
+
+}
+
+
+
+.form{
+    position: relative;
+    left: 55px;
+    bottom: 15px;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.scroll_edit{
+    height: 75px;
+    overflow: auto;
+
+}
+
+.formInputEdit{
+    width: 50%; margin: 0 auto;position: relative; right: 75px;
+}
+
+#name{
+    position: relative; left: 36px;
+}
+
+.imageCourseEdit{
+    position: relative; left: 65px; bottom: 15px;
+}
+
+.button_delete_Admin{
+    position: relative;
+    bottom: 406px;
+    right:18px;
+    border-radius: 25%;
+    border: 2px solid #ff261e;
+    background-color: red;
+    color: white;
+}
+
+.button_delete_course{
+    position: relative;
+    bottom: 377px;
+    left:635px;
+    border-radius: 25%;
+    border: 2px solid #ff261e;
+    background-color: red;
+    color: white;
+}
+
+.button_delete_student{
+    position: relative;
+    bottom: 378px;
+    left:635px;
+    border-radius: 25%;
+    border: 2px solid #ff261e;
+    background-color: red;
+    color: white;
+
+}
+
+.imageAdminForm{
+    position: relative; left: 195px; bottom: 18px;
+}
+
+.screenDetails{
+    border:solid;
+    border-radius: 25px;
+    padding: 5px;
+    height:465px; width: 700px
+}
+
+.editCourseBtn{
+    float: right;
+    border-radius: 25%;
+    border: 2px solid #57a5ff;
+}
+
+.editStudentBtn{
+    position: relative;
+    left:495px;
+    border-radius: 25%;
+    border: 2px solid #57a5ff;
+}
+
+.scrollStudentEnrolled{
+    height: 160px;
+    overflow: auto;
+
+}
+
+.contEditCourse_Student{
+    border:solid;
+    border-radius: 25px;
+    padding: 5px;
+    height:465px; width: 700px; position: relative;
+}
+
+.btnSaveEditForm{
+    border-radius: 25%;
+    border: 2px solid #57a5ff;
+}
+
+#name_list_admin{
+    color: black;
+}
