@@ -1,12 +1,13 @@
 # The School Management
 
-Todo list was my first project during my studies an it's a basic Todo list using HTML, CSS and pure Javascript
+The School Management was my final project before getting FullStack certified. It's an application for managing a school built with Laravel.
 
 ## Features
 
-* Save task.
-* delete task.
-* Save task in local storage.
+* Create student.
+* Create courses an classes.
+* adding student to classes.
+* Permissions  
 
 
 ## How
@@ -28,7 +29,7 @@ School Management was possible thanks to other people's hard work. Thank you so 
 
 ## Donations
 
-I work on School Management mostly in my own spare time. If you've found School Management useful and would like to help feed me and fund continued development and new features, please [donate via PayPal]. If you'd like a specific feature added to Mp3 Streamer and are willing to pay for it, please [email me](mailto:orev5135@gmail.com).
+I work on School Management mostly in my own spare time. If you've found School Management useful and would like to help feed me and fund continued development and new features, please donate via PayPal. If you'd like a specific feature added to Mp3 Streamer and are willing to pay for it, please [email me](mailto:orev5135@gmail.com).
 
 ## License
 
