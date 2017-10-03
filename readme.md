@@ -11,19 +11,24 @@ Todo list was my first project during my studies an it's a basic Todo list using
 
 ## How
 
-1. Download all the files in your computer.
-2. Run the html file!
+1. Composer update.
+2. Download all the files in localohost folder.
+3. Run in Localhost (Uwamp, Xampp).
+4. Username: mic@gmail.com
+5. Password: 123456
+6. Enjoy!
+
 
 
 
 
 ## Thanks
 
-School Management is just a mishmash of other people's hard work. Thank you so much to the people who have built wonderful features on which this project relies.
+School Management was possible thanks to other people's hard work. Thank you so much to the people who have built and share wonderful open source technology on which this project relies.
 
 ## Donations
 
-I work on School Management mostly in my own spare time. If you've found School Management useful and would like to help feed me and fund continued development and new features, please [donate via PayPal][donate]. If you'd like a specific feature added to Mp3 Streamer and are willing to pay for it, please [email me](mailto:orev5135@gmail.com).
+I work on School Management mostly in my own spare time. If you've found School Management useful and would like to help feed me and fund continued development and new features, please [donate via PayPal]. If you'd like a specific feature added to Mp3 Streamer and are willing to pay for it, please [email me](mailto:orev5135@gmail.com).
 
 ## License
 
