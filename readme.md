@@ -33,7 +33,7 @@ I work on School Management mostly in my own spare time. If you've found School 
 
 ## License
 
-Copyright © 2015-2017 Othryades (orev5135@gmail.com). Released under the MIT License, see [LICENSE][license] for details.
+Copyright © 2015-2017 Othryades (orev5135@gmail.com). Released under the MIT License, see LICENSE for details.
 
 
 
