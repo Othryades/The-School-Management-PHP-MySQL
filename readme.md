@@ -1,6 +1,6 @@
 # The School Management
 
-The School Management was my final project before getting FullStack certified. It's an application for managing a school classes/students schedul built with Laravel.
+The School Management was my final project before getting FullStack certified. It's an application for managing a school classes/students schedule built with Laravel.
 
 ## Features
 
